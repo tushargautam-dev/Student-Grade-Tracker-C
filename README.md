@@ -7,11 +7,17 @@ A simple console-based Student Grade Tracker developed in C. This project allows
 ✨ Features
 
 👨‍🎓 Add Student Details
+
 📝 Enter Subject Marks
+
 📊 Calculate Average Marks
+
 🏆 Grade Calculation
+
 📄 Generate Report Card
+
 🚪 Exit Option
+
 🛠️ Technologies Used
 C Programming Language
 Visual Studio Code
