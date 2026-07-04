@@ -55,11 +55,17 @@ student.exe
 📚 Concepts Used
 
 Functions
+
 Arrays
+
 Loops
+
 Conditional Statements
+
 Switch Case
+
 User Input & Output
+
 Menu-Driven Programming
 
 🎯 Learning Outcome
